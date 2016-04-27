@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./geographiaafric00schlgoog_0180.png"; bbox 0 0 2681 4430; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 412 189 2089 356">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 412 189 2089 356">
+     <span class='ocr_line' id='line_1_1' title="bbox 412 189 2089 356; baseline -0.005 -25"><span class='ocrx_word' id='word_1_1' title='bbox 412 267 558 351; x_wconf 78' lang='lat'>158·</span> <span class='ocrx_word' id='word_1_2' title='bbox 907 189 1444 356; x_wconf 56' lang='lat' dir='ltr'><strong>&#39;Gangraphiae</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1489 239 1810 345; x_wconf 78' lang='lat' dir='ltr'><em>Africae</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1883 252 1922 319; x_wconf 80' lang='grc'><strong>’.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2016 205 2021 210; x_wconf 16' lang='lat'><strong><em>⁹</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2067 315 2089 323; x_wconf 79' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 341 448 2613 641">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 341 448 2613 641">
+     <span class='ocr_line' id='line_1_2' title="bbox 406 448 2613 548; baseline -0.007 -10"><span class='ocrx_word' id='word_1_7' title='bbox 406 470 820 538; x_wconf 79' lang='lat' dir='ltr'>memoratos</span> <span class='ocrx_word' id='word_1_8' title='bbox 865 449 1233 529; x_wconf 77' lang='lat' dir='ltr'><em>Aturantes</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1276 448 1588 548; x_wconf 48' lang='lat' dir='ltr'><strong>appellat.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1643 448 1912 527; x_wconf 76' lang='lat' dir='ltr'><strong>VIdeat.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1953 449 2341 526; x_wconf 85' lang='lat' dir='ltr'>Voss1vs</span> <span class='ocrx_word' id='word_1_12' title='bbox 2612 450 2613 507; x_wconf 52' lang='grc' dir='ltr'><strong><em>Ν</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 341 529 2613 641; baseline -0.015 1"><span class='ocrx_word' id='word_1_13' title='bbox 341 592 344 598; x_wconf 73' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 409 566 495 641; x_wconf 75' lang='lat' dir='ltr'><strong>ad</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 536 570 795 639; x_wconf 73' lang='lat' dir='ltr'>MELA</span> <span class='ocrx_word' id='word_1_16' title='bbox 836 564 1066 633; x_wconf 83' lang='lat' dir='ltr'>locum</span> <span class='ocrx_word' id='word_1_17' title='bbox 1115 554 1486 635; x_wconf 73' lang='lat' dir='ltr'><strong>laudatum.</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1585 612 1605 641; x_wconf 59' lang='lat'><em>„</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 2611 529 2613 538; x_wconf 50' lang='lat'><strong><em>⁴</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./geographiaafric00schlgoog_0190.png"; bbox 0 0 2681 4430; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 363 210 531 312">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 363 210 531 312">
+     <span class='ocr_line' id='line_1_1' title="bbox 363 210 531 312; baseline -0.071 1"><span class='ocrx_word' id='word_1_1' title='bbox 363 210 531 312; x_wconf 74' lang='lat'><em>21⁶⁸</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 779 177 1789 309">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 779 177 1789 309">
+     <span class='ocr_line' id='line_1_2' title="bbox 779 177 1789 309; baseline -0.013 -28"><span class='ocrx_word' id='word_1_2' title='bbox 779 202 784 210; x_wconf 85' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 985 192 1456 309; x_wconf 70' lang='lat' dir='ltr'><em>Gesographiae</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1504 177 1789 295; x_wconf 70' lang='lat' dir='ltr'><em>Africae</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

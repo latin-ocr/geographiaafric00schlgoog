@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./geographiaafric00schlgoog_0005.png"; bbox 0 0 2681 4430; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 708 235 2177 589">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 708 235 2278 589">
+     <span class='ocr_line' id='line_1_1' title="bbox 708 235 2177 429; baseline 0.016 -55"><span class='ocrx_word' id='word_1_1' title='bbox 708 261 992 429; x_wconf 70' lang='lat' dir='ltr'><strong>HERM</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1001 295 1249 418; x_wconf 74' lang='grc' dir='ltr'><strong>ΑΝΝΙ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1335 235 2278 417; x_wconf 49' lang='lat' dir='ltr'>xsemna11341210Rs·&#39;1</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1148 433 2156 589; baseline 0.012 -24"><span class='ocrx_word' id='word_1_4' title='bbox 1148 462 1760 589; x_wconf 41' lang='lat' dir='ltr'>annium?</span> <span class='ocrx_word' id='word_1_5' title='bbox 1904 438 1955 466; x_wconf 9' lang='lat'>¹*</span> <span class='ocrx_word' id='word_1_6' title='bbox 2094 433 2156 498; x_wconf 64' lang='lat'>&#39;5-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 386 695 2463 780">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 386 695 2463 780">
+     <span class='ocr_line' id='line_1_3' title="bbox 386 695 2463 780; baseline 0 -30"><span class='ocrx_word' id='word_1_7' title='bbox 386 695 867 768; x_wconf 12' lang='lat' dir='ltr'>vm&#39;srnvne</span> <span class='ocrx_word' id='word_1_8' title='bbox 956 703 1196 766; x_wconf 67' lang='lat' dir='ltr'>luzan</span> <span class='ocrx_word' id='word_1_9' title='bbox 1321 696 1772 780; x_wconf 51' lang='lat' dir='ltr'>11181011101x</span> <span class='ocrx_word' id='word_1_10' title='bbox 1862 701 2463 780; x_wconf 64' lang='lat' dir='ltr'>qorrxuennsxs</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1017 822 1735 904">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1017 822 1735 904">
+     <span class='ocr_line' id='line_1_4' title="bbox 1017 822 1735 904; baseline 0.003 -6"><span class='ocrx_word' id='word_1_11' title='bbox 1017 822 1067 841; x_wconf 56' lang='lat'><strong><em>⁹</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1133 852 1735 904; x_wconf 68' lang='lat' dir='ltr'>Assnsson1s</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

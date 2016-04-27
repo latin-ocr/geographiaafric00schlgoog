@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./geographiaafric00schlgoog_0184.png"; bbox 0 0 2681 4430; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 371 258 1799 395">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 371 258 1799 395">
+     <span class='ocr_line' id='line_1_1' title="bbox 371 258 1799 395; baseline -0.004 -20"><span class='ocrx_word' id='word_1_1' title='bbox 371 258 593 384; x_wconf 31' lang='lat'>&#39;162‘</span> <span class='ocrx_word' id='word_1_2' title='bbox 746 331 753 342; x_wconf 90' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 900 337 908 351; x_wconf 75' lang='lat'><em>=</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 985 275 1799 395; x_wconf 56' lang='lat' dir='ltr'>&amp;dgr-aphiacAfri&#39;cbe</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 410 487 2413 712">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 410 487 2413 712">
+     <span class='ocr_line' id='line_1_2' title="bbox 410 487 2384 608; baseline 0.008 -45"><span class='ocrx_word' id='word_1_5' title='bbox 410 512 623 598; x_wconf 55' lang='lat' dir='ltr'>⁴gran</span> <span class='ocrx_word' id='word_1_6' title='bbox 659 510 1280 577; x_wconf 57' lang='lat' dir='ltr'><strong>‘montes‘autem,·</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1309 521 1487 594; x_wconf 86' lang='lat' dir='ltr'>quos</span> <span class='ocrx_word' id='word_1_8' title='bbox 1525 504 1889 587; x_wconf 70' lang='lat' dir='ltr'>acc-olunt,</span> <span class='ocrx_word' id='word_1_9' title='bbox 1941 487 2182 591; x_wconf 68' lang='lat' dir='ltr'>fimiiS,</span> <span class='ocrx_word' id='word_1_10' title='bbox 2214 510 2384 608; x_wconf 75' lang='lat' dir='ltr'><strong>qni·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 415 596 2413 712; baseline 0.002 -35"><span class='ocrx_word' id='word_1_11' title='bbox 415 602 553 677; x_wconf 75' lang='lat' dir='ltr'>:bus</span> <span class='ocrx_word' id='word_1_12' title='bbox 574 602 742 701; x_wconf 77' lang='lat' dir='ltr'><strong>·ipfis</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 770 596 1136 673; x_wconf 79' lang='lat' dir='ltr'>vescuntur</span> <span class='ocrx_word' id='word_1_14' title='bbox 1150 604 1475 690; x_wconf 49' lang='lat' dir='ltr'>„in‘c‘oiaffi</span> <span class='ocrx_word' id='word_1_15' title='bbox 1527 599 1894 696; x_wconf 54' lang='lat' dir='ltr'><strong>abundare·</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1918 606 2240 709; x_wconf 52' lang='lat' dir='ltr'><strong>dicumpn·</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 2269 614 2378 701; x_wconf 75' lang='lat' dir='ltr'>e).</span> <span class='ocrx_word' id='word_1_18' title='bbox 2410 707 2413 712; x_wconf 16' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2616 926 2618 1648">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2616 926 2618 1648">
+     <span class='ocr_line' id='line_1_4' title="bbox 2616 926 2618 1648; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 2616 926 2618 1648; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
